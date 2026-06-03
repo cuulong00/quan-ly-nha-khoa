@@ -17,6 +17,14 @@ Dự án được thiết kế để phát triển và kiểm thử tự động
 
 ---
 
+## 🐙 Github Repository
+Dự án được quản lý mã nguồn tập trung tại GitHub:
+*   **Link Repository**: [https://github.com/cuulong00/quan-ly-nha-khoa.git](https://github.com/cuulong00/quan-ly-nha-khoa.git)
+*   **Nhánh làm việc chính**: `main`
+*   **Quy trình đóng góp**: Đội ngũ Agent và nhà phát triển cần commit code lên branch riêng và tạo Pull Request (PR) để PM/Bác sĩ phê duyệt trước khi merge vào `main`.
+
+---
+
 ## 🌐 Môi trường VPS & Cấu hình SSH Kết nối
 Dự án đã cấu hình và tích hợp thành công kết nối tới máy chủ VPS phục vụ môi trường Production/Staging.
 
